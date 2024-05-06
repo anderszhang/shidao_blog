@@ -5,11 +5,11 @@
 # Site
 title: 石岛的blog
 subtitle: ''
-description: ''
+description: '石岛的博客;code;java;javascript'
 keywords:
 author: 石岛
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
