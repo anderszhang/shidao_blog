@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://foruda.gitee.com/avatar/1689160768456576404/1413462_anderszhang_1689160768.png!avatar200",
+  logo: "assets/icon/avatar.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -30,6 +30,7 @@ export default hopeTheme({
 
   // 博客相关
   blog: {
+    avatar: '/assets/icon/avatar.jpg',
     description: "一个全栈开发者",
     intro: "/intro.html",
     medias: {
