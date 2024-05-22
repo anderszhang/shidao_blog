@@ -2,8 +2,8 @@
 home: true
 layout: BlogHome
 icon: home
-title: 博客主页
+title: 主页
 hero: false
-footer: power by vuepress
+footer: 沪ICP备2024069698号-1 power by vuepress 
 ---
 

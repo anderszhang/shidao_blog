@@ -1,8 +1,7 @@
 ---
 title: 关于
 icon: circle-info
-article: false
-Date: 2024-05-01
+heroFullScreen: false
 ---
 
 # 介绍页
