@@ -3,11 +3,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "http://shidao.info",
 
   author: {
     name: "石岛",
-    url: "https://mister-hope.com",
+    url: "http://shidao.info",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -37,7 +37,7 @@ export default hopeTheme({
       GitHub: "https://github.com/anderszhang",
       Gmail: "mailto:anderszhang@gmail.com",
    
-    },
+    }
   },
 
   navbarLayout: {
@@ -147,6 +147,8 @@ export default hopeTheme({
       // install sandpack-vue3 before enabling it
       // sandpack: true,
     },
+
+  
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
     // pwa: {
