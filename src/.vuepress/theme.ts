@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "沪ICP备2024069698号-1 power by vuepress ",
   displayFooter: true,
 
   // 博客相关
@@ -37,8 +37,8 @@ export default hopeTheme({
       Gitee: "https://gitee.com/anderszhang",
       GitHub: "https://github.com/anderszhang",
       Gmail: "mailto:anderszhang@gmail.com",
-   
-    }
+    },
+    timeline : ''
   },
 
   navbarLayout: {
