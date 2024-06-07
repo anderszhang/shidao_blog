@@ -4,7 +4,6 @@ categroy:
     - ES6
 tag: 
     - JavaScript
-    — GC
 ---
 
 # Javascript中的垃圾回收（GC）

@@ -5,7 +5,6 @@ categroy:
     - ES6
 tag: 
     - JavaScript
-    — GC
 ---
 
 # ）
