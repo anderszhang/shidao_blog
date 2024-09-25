@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "沪ICP备2024069698号-1 power by vuepress ",
+  footer: "<a href='https://beian.miit.gov.cn/'>沪ICP备2024069698号-1</a> power by vuepress ",
   displayFooter: true,
 
   // 博客相关
@@ -113,7 +113,8 @@ export default hopeTheme({
       tabs: true,
       tasklist: true,
       vPre: true,
-
+      // 启用思维导图支持
+      markmap: true,
       // 在启用之前安装 chart.js
       // chart: true,
 
