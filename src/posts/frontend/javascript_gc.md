@@ -60,7 +60,7 @@ c.parent = p
 
 Map则可以支持key值为任意类型， 且保证遍历时与插入顺序一致。
 
-WeakMap仅支持key为对象或者非注册的symbol类型， 且WwakMap key对对象的引用不阻止垃圾回收。 如果key对象没有其他使用了， 则在WeakMap中该key对应的value 也可以标记为垃圾回收。从而提高了内存利用率。
+WeakMap仅支持key为对象或者非注册的symbol类型， 且WeakMap key对对象的引用不阻止垃圾回收。 如果key对象没有其他使用了， 则在WeakMap中该key对应的value 也可以标记为垃圾回收。从而提高了内存利用率。
 
 ### WeakSet
 

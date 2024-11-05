@@ -1,6 +1,5 @@
 ---
 title: npm常用工具库
-article: false
 date: 2024-09-25
 category:
   - 前端
